@@ -1,0 +1,37 @@
+body {
+  /* background-color: lightblue; */
+  background-color: #d0e1ec ;
+  background-image: linear-gradient;
+}
+
+h1 {
+  color: black;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  color: #000000;
+  
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
+
+.custom-h1 {
+    font-size: 70px;
+}
+
+.center {
+  text-align: center;
+}
+
+.header {
+    margin-top: 30%;
+}
+
